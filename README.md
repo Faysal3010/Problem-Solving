@@ -1,5 +1,5 @@
 # Problem Solving
-Problem solve in `java, Python, C++`
+Problem solve in `java, Python, C, C++`
 1. varsity programming problem solving
 2. codeforce
 3. vjuge
